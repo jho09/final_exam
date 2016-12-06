@@ -1,0 +1,12 @@
+---
+title: "exam_part1"
+author: "Jordan Ho"
+date: '2016-12-06'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The sample size suggested by this analysis was N = 91
